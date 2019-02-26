@@ -1,0 +1,11 @@
+{
+  "name": "adventurersguild-client",
+  "version": "0.1.0",
+  "description": "An all-in-one resource for DnD 5e!",
+  "main": "index.js",
+  "repository": "https://github.com/adventurersguild/adventurersguild-client.git",
+  "license": "GPL-3.0",
+  "installConfig": {
+    "pnp": true
+  }
+}
