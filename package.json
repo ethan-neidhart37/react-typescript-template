@@ -1,9 +1,9 @@
 {
-	"name": "adventurersguild-client",
-	"version": "0.1.0",
-	"description": "An all-in-one resource for DnD 5e!",
+	"name": "react-template",
+	"version": "1.0.0",
+	"description": "A 'Hello, World!' React app using webpack, babel, and typescript.",
 	"private": true,
-	"repository": "https://github.com/adventurersguild/adventurersguild-client.git",
+	"repository": "https://github.com/ethan-neidhart37/react-typescript-template.git",
 	"license": "GPL-3.0",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
